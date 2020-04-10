@@ -7,6 +7,7 @@ import '../assets/styles/components/Login.scss';
 
 
 const Login = () => (
+  
   <section className="login">
     <section className="login__container">
       <h2>Inicia sesión</h2>
