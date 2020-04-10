@@ -1,6 +1,10 @@
 @import "./Vars.scss";
 @import "./Media.scss";
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   margin: 0;
   font-family: $theme-font;
